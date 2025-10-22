@@ -29,6 +29,10 @@ It allows users to open, close, and control desktop applications using Malayalam
 
 ---
 
+
+Add the py files to the code Editor
+
+
 ## 💬 Example Commands
 
 | Malayalam Command | English Meaning | Action |
